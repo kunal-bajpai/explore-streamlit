@@ -20,7 +20,7 @@ if "messages" not in st.session_state:
     ]
 
 # Display chat title
-st.title("💭 ChatGPT Clone")
+st.title("💭 Kunal's ChatGPT Clone")
 
 # Display chat messages
 for message in st.session_state.messages:
